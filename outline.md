@@ -1,6 +1,8 @@
 # git Mentorship Log
 
-## What is the purpose of git
+## Session 1
+
+### What is the purpose of git
 - Versioning
   - Being able to go back to a version that works. Specially useful when project grow to a certain size
   - Deploy rollback
@@ -9,8 +11,6 @@
 - Collaboration
   - Allow adding code to a single project in an orderly fashion
   - Makes it easier to review incoming patches
-
-## Session 1
 
 ### Basics
 - git init
