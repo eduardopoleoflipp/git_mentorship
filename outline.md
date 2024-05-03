@@ -29,6 +29,7 @@
 - Add a new feature to car
 - Create PR
   - You're gonna need to use some of the commands we discussed today!
+- Add a PR for a README.md file so that the repo has a description
 
 ## Content for future sessions:
 
