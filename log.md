@@ -31,6 +31,18 @@
   - You're gonna need to use some of the commands we discussed today!
 - Add a PR for a README.md file so that the repo has a description
 
+## Session 2
+- git checkout -b <branch_name>
+- git add . 
+- git commit
+- git commit -m
+- git push 
+- Code review 
+- Merging
+- git pull
+- git push --set-upstream origin <branch_name>
+- git push -f
+
 ## Content for future sessions:
 
 ### Basics
@@ -59,3 +71,4 @@
   - I've never used this but it's relevant cuz we're using it to track changes for **notebooks**
 
 ### How to review a PR?
+
