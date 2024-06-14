@@ -42,6 +42,15 @@
 - git pull
 - git push --set-upstream origin <branch_name>
 - git push -f
+- Overview of SSH Keys and why they are useful.
+- Setting up SSH Keys with Github.
+- Setting up code editor: VS Code.
+- Connect command line and  VS Code.
+
+## Session 3
+- Recap of session 2.
+- Set up the correct author in cmd line.
+- Practical example - PR.
 
 ## Content for future sessions:
 
