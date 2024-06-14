@@ -52,6 +52,9 @@
 - Set up the correct author in cmd line.
 - Practical example - PR.
 
+# Session 4
+- We learned about git push -f
+
 ## Content for future sessions:
 
 ### Basics
